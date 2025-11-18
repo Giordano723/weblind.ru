@@ -30,3 +30,4 @@ Notes and usage details for weblind.ru.
 - clarify the setup steps
 - clarify the setup steps
 - clarify the setup steps
+- fix a small wording issue

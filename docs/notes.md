@@ -41,3 +41,4 @@ Notes and usage details for weblind.ru.
 - link the usage section
 - add a note about the defaults
 - add a note about the defaults
+- clarify the setup steps
